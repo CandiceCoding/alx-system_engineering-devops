@@ -1,0 +1,4 @@
+#!/bin/bashi#!
+cat /etc/passwd /etc/hosts
+
+
