@@ -1,2 +1,2 @@
 #!/bin/bashi#!
-cat /etc/passwd /etc/host
+Cat /etc/passwd & /etc/host 
